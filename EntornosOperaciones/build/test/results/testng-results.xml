@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-19T11:18:59Z" name="EntornosOperaciones" finished-at="2023-05-19T11:18:59Z" duration-ms="41">
+    <groups>
+    </groups>
+    <test started-at="2023-05-19T11:18:59Z" name="TestNG tests" finished-at="2023-05-19T11:18:59Z" duration-ms="41">
+      <class name="entornosoperaciones.EntornosOperacionesNGTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="setUpClass" finished-at="2023-05-19T11:18:59Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="setUpMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testCrearMatrizNula()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="testCrearMatrizNula" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCrearMatrizNula -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="tearDownMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="testGetIndiceEquivocadoDe()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="testGetIndiceEquivocadoDe" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetIndiceEquivocadoDe -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="tearDownMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="setUpMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="setUpMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testGetIndiceDe()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="testGetIndiceDe" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetIndiceDe -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="setUpMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="tearDownMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="setUpMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="tearDownMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="testGetMaximo()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="testGetMaximo" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetMaximo -->
+        <test-method signature="testCrearMatrizVacia()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="testCrearMatrizVacia" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCrearMatrizVacia -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="tearDownMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="testGetMinimo()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="testGetMinimo" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetMinimo -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="tearDownMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="setUpMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="setUpMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testGetSuma()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="testGetSuma" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSuma -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="tearDownMethod" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:entornosoperaciones.EntornosOperacionesNGTest@210366b4]" started-at="2023-05-19T11:18:59Z" name="tearDownClass" finished-at="2023-05-19T11:18:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- entornosoperaciones.EntornosOperacionesNGTest -->
+    </test> <!-- TestNG tests -->
+  </suite> <!-- EntornosOperaciones -->
+</testng-results>
